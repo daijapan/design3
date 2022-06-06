@@ -4,6 +4,10 @@ defining design ver 3.0 like Web3.0
 既存のデザインの概念に囚われず、KiaraなりのDesign3.0を定義したいと思います。
 きっと皆さんの役に立つはず
 
+下記のイシューの好きなトピックにコメントしてみてくださいませ(Githubに登録後、簡単にできます　https://qiita.com/ayatokura/items/9eabb7ae20752e6dc79d)
+
+https://github.com/daijapan/design3/issues
+
 (problem)
 - easy method and framework for your daily life(= design for all, or  desingerless design)
 - everything can be designed - including invisible ones (プロセスや人間関係など見えないものもデザインしたい)
